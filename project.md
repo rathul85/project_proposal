@@ -60,7 +60,7 @@ Manual attendance has the following problems.
 - **Proxy attendance.** A present student can mark an absent classmate and there is no simple way to verify identity.
 - **Human error.** Calculating totals, percentages and month sheets by hand is slow and error prone.
 - **Poor record keeping.** Paper registers can be lost, damaged or altered, and old records are hard to search.
-- **Lack of access control.** In a shared system any user can delete important records by mistake unless permissions are separated by role.
+- **Lack of access control.** In a shared system any user can delete important records by mistake unless permissions are separated by role
 
 ## 3. Objectives
 The main objective is to build a web-based system that records class attendance automatically using face recognition. The specific objectives are:
